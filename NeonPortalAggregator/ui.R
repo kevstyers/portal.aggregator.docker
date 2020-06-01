@@ -159,7 +159,7 @@ shinyUI(
                   )
                 ), # End Columb of conditional images
                 shiny::column(width = 2,
-                  shiny::img(src = "favicon.ico",width = "100%", height = "100%",  align = "right")
+                  shiny::img(src = "favicon.jpg",width = "100%", height = "100%",  align = "right")
                   
                 )
             ), # End Column 7
