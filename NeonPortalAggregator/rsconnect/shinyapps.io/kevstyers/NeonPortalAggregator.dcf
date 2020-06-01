@@ -1,0 +1,13 @@
+name: NeonPortalAggregator
+title: NeonPortalAggregator
+username:
+account: kevstyers
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2350478
+bundleId: 3186205
+url: https://kevstyers.shinyapps.io/NeonPortalAggregator/
+when: 1590384611.32098
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: src/create.date.table.R|src/create.dp.lookup.R|src/create.site.list.R|src/download.neon.dpid.R|src/test.R
